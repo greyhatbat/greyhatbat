@@ -14,7 +14,7 @@ Minimalist interfaces inspired by the night.
 
 ## 🦇 About Me
 
-```javascript
+
 const devhatbat = {
   focus: [
     "Frontend Development",
@@ -51,7 +51,7 @@ const devhatbat = {
     "Secure Frontend Systems"
   ]
 };
-```
+
 
 ---
 
