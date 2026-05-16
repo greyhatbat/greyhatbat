@@ -1,91 +1,42 @@
 <div align="center">
 
-<img src="./assets/banner1.jpg" width="100%" />
+<img src="https://via.placeholder.com/1200x300/1a202c/718096?text=devHatBat+|+Frontend+Vigilante" alt="devHatBat Banner" width="100%">
 
-# 🌑 DevHatBat
+<br>
 
-### Frontend Developer | Secure UI Engineer
+<h1>🦇 devHatBat 🦇</h1>
 
-Minimalist interfaces inspired by the night.
+<h3>Desarrollador Frontend & Mobile · Arquitecto de interfaces limpias bajo la estética nocturna</h3>
+
+<p>Construyendo soluciones eficientes y diseños optimizados desde las sombras del código.</p>
+
+<img src="https://img.shields.io/badge/FOCUS-FRONTEND-2b6cb0?style=for-the-badge&logoColor=white" />  <img src="https://img.shields.io/badge/MOBILE-DEVELOPMENT-4a5568?style=for-the-badge&logoColor=white" />  <img src="https://img.shields.io/badge/ESTILO-MINIMALISTA-2d3748?style=for-the-badge&logoColor=white" />
 
 </div>
 
 ---
 
-## 🦇 About Me
+### 🛠️ Tecnologías y Herramientas
 
-```js
-const devhatbat = {
-  focus: [
-    "Frontend Development",
-    "Secure Web Applications",
-    "UI/UX",
-    "Modern Interfaces"
-  ],
+#### **Desarrollo Frontend & Mobile**
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-  stack: {
-    frontend: [
-      "React",
-      "Next.js",
-      "Vue",
-      "TailwindCSS",
-      "TypeScript"
-    ],
+#### **Lógica & Datos**
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" /> <img src="https://img.shields.io/badge/DAX_Analytics-2b6cb0?style=for-the-badge&logoColor=white" />
 
-    backend: [
-      "Node.js",
-      "Express",
-      "C#"
-    ],
-
-    database: [
-      "MySQL",
-      "PostgreSQL",
-      "Supabase"
-    ]
-  },
-
-  currentProjects: [
-    "VotoSeguro",
-    "Threat Modeling",
-    "Secure Frontend Systems"
-  ]
-}
-```
+#### **Diseño & Productividad**
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Canva_Pro-00C4CC?style=for-the-badge&logo=canva&logoColor=white" /> <img src="https://img.shields.io/badge/Obsidian-7C4DFF?style=for-the-badge&logo=obsidian&logoColor=white" />
 
 ---
 
-## ⚙️ Tech Stack
+### 🚀 Proyectos Destacados
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,ts,js,nodejs,express,mysql,postgres,figma,git,vscode" />
-
-</p>
+* **⚡ FastCook:** Aplicación móvil inteligente diseñada para la gestión rápida de recetas utilizando los ingredientes disponibles en el momento. Una solución ágil con un flujo de usuario intuitivo y diseño optimizado.
+* **🎵 CleanSound:** Aplicación de música enfocada en una experiencia de usuario limpia, libre de distracciones visuales y con un rendimiento técnico impecable en entornos Android.
+* **📊 Análisis Estadístico y BI:** Modelado de datos complejos y creación de dashboards interactivos con KPIs personalizados, aplicando ingeniería de datos para la resolución de problemáticas reales.
 
 ---
-
-## 🌌 Current Focus
-
-- Secure frontend architectures
-- Responsive UI systems
-- Threat modeling applied to web apps
-- Frontend performance optimization
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devhatbat&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhatbat&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=devHatBat&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de devHatBat" />
 </div>
-
----
-
-## 🌙 Philosophy
-
-> “Clean UI. Secure systems. Silent execution.”
