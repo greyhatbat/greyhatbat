@@ -14,7 +14,7 @@ Minimalist interfaces engineered with style and precision.
 
 ##  About Me
 
-Frontend Developer focused on secure and modern interfaces.
+Frontend Developer focused on clean and modern interfaces.
 
 ---
 
