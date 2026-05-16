@@ -14,44 +14,22 @@ Minimalist interfaces inspired by the night.
 
 ## 🦇 About Me
 
-```javascript
-const devhatbat = {
-  focus: [
-    "Frontend Development",
-    "Secure Web Applications",
-    "UI/UX",
-    "Modern Interfaces"
-  ],
+Frontend Developer focused on secure and modern interfaces.
 
-  stack: {
-    frontend: [
-      "React",
-      "Next.js",
-      "Vue",
-      "TailwindCSS",
-      "TypeScript"
-    ],
+### ⚡ Stack
 
-    backend: [
-      "Node.js",
-      "Express",
-      "C#"
-    ],
+- React / Next.js
+- TailwindCSS
+- TypeScript
+- Node.js / Express
+- PostgreSQL / Supabase
 
-    database: [
-      "MySQL",
-      "PostgreSQL",
-      "Supabase"
-    ]
-  },
+### 🌌 Current Focus
 
-  currentProjects: [
-    "VotoSeguro",
-    "Threat Modeling",
-    "Secure Frontend Systems"
-  ]
-};
-```
+- Secure frontend systems
+- Threat modeling
+- UI performance
+- Minimalist interfaces
 
 ---
 
@@ -62,27 +40,6 @@ const devhatbat = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,ts,js,nodejs,express,mysql,postgres,figma,git,vscode" />
 
 </p>
-
----
-
-## 🌌 Current Focus
-
-- Secure frontend architectures
-- Responsive UI systems
-- Threat modeling applied to web apps
-- Frontend performance optimization
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devhatbat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhatbat&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
