@@ -12,17 +12,11 @@ Minimalist interfaces engineered with style and precision.
 
 ---
 
-## 🦇 About Me
+##  About Me
 
 Frontend Developer focused on secure and modern interfaces.
 
-### ⚡ Stack
-
-- React / Next.js
-- TailwindCSS
-- TypeScript
-- Node.js / Express
-- PostgreSQL / Supabase
+---
 
 ### 🌌 Current Focus
 
