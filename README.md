@@ -4,7 +4,7 @@
 
 # 🌑 DevHatBat
 
-### Frontend Developer | Secure UI Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Frontend+Developer+%7C+Secure+UI)](https://git.io/typing-svg)
 
 Minimalist interfaces inspired by the night.
 
