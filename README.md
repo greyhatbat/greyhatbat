@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/1200x300/1a202c/718096?text=devHatBat+|+Frontend+Vigilante" alt="devHatBat Banner" width="100%">
+<img src="./assets/banner.png" width="100%" />
 
 <br>
 
