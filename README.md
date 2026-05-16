@@ -40,9 +40,3 @@ Frontend Developer focused on secure and modern interfaces.
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,ts,js,nodejs,express,mysql,postgres,figma,git,vscode" />
 
 </p>
-
----
-
-## 🌙 Philosophy
-
-> “Clean UI. Secure systems. Silent execution.”
